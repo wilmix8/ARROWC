@@ -3,17 +3,17 @@
 ARROWC
 =======
 
-ARROWC  is  used  only  in  America.which  is  invented  by wilmix jemin j in  JDollar p.l at year  2016.
+ARROWC  is  used  only  in  America.which  is  invented  by wilmix jemin j in  web p.l at year  2016.
 
 
-ARROWC consists of  3  modules  that  are   used  with JDollarpart1,Jdollarpart2,Jdollarpart3.
+ARROWC consists of  3  modules  that  are   used  with  webpart1, webpart2, webpart3.
 
 ARROWC  is   the  UNV Programming  Language.
 
 ADVANTAGES:
 ===========
 
-It behave  like Jdollar.
+It behave  like  web.
 
 
 SYNTAX:
