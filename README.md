@@ -8,7 +8,7 @@ ARROWC  is  used  only  in  America.which  is  invented  by wilmix jemin j in  w
 
 ARROWC consists of  3  modules  that  are   used  with  webpart1, webpart2, webpart3.
 
-ARROWC  is   the  UNV Programming  Language.
+
 
 ADVANTAGES:
 ===========
