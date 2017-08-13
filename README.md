@@ -1,7 +1,5 @@
 # ARROWC
 =========
-ARROWC
-=======
 
 ARROWC  is  used  only  in  America.which  is  invented  by wilmix jemin j in  web p.l at year  2016.
 
@@ -107,3 +105,8 @@ Program-1:
 
 }
 
+
+Note:
+=====
+
+ARROWC Advanced Business: It is focused with JDollar(JWEB) Advanced Business.
